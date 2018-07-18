@@ -1,0 +1,88 @@
+SSA State/County Code	Facility or Service Type	Specialty Code	National Provider Identifier (NPI) Number	"# of Staffed, Medicare-Certified Beds"	Facility Name	Provider Service Street Address	Provider Service City	Provider Service State	Provider Service Zip Code
+33610	Physical Therapy	049	9999999999	0	Richmond University Medical Center	355 Bard Ave	Staten Island	NY	10310
+33610	Speech Therapy	051	9999999999	0	Richmond University Medical Center	355 Bard Ave	Staten Island	NY	10310
+33610	Outpatient Infusion/Chemotherapy	057	9999999999	0	Richmond University Medical Center	355 Bard AveNA	Staten Island	NY	10310
+33610	Skilled Nursing Facilities	046	9999999999	144	NYC Health + Hospitals/ Seaview	460 Brielle Avenue 	Staten Island	NY	10314
+33610	Occupational Therapy	050	9999999999	0	Richmond University Medical Center	355 Bard Ave	Staten Island	NY	10310
+33610	Outpatient Dialysis	044	1932590312	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Outpatient Dialysis	044	1932590312	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1932135571	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Outpatient Dialysis	044	1932135571	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Diagnostic Radiology	047	1912925199	0	Staten Island University Hospital- South Campus	375 Seguine Avenue	Staten Island	NY	10309
+33610	Diagnostic Radiology	047	1912925199	0	Staten Island University Hospital- North Campus	475 Seaview Avenue	Staten Island	NY	10305
+33610	Critical Care Services/Intensive Care Units	043	1912925199	0	Staten Island University Hospital- North Campus	475 Seaview Avenue	Staten Island	NY	10305
+33610	Cardiac Surgery Program	041	1912925199	0	Staten Island University Hospital- South Campus	375 Seguine Avenue	Staten Island	NY	10309
+33610	Surgical Services	045	1912925199	0	Staten Island University Hospital- North Campus	475 Seaview Avenue	Staten Island	NY	10305
+33610	Surgical Services	045	1912925199	0	Staten Island University Hospital- South Campus	375 Seguine Avenue	Staten Island	NY	10309
+33610	Cardiac Surgery Program	041	1912925199	0	Staten Island University Hospital- North Campus	475 Seaview Avenue	Staten Island	NY	10305
+33610	Cardiac Catheterization Services	042	1912925199	0	Staten Island University Hospital- South Campus	375 Seguine Avenue	Staten Island	NY	10309
+33610	Cardiac Catheterization Services	042	1912925199	0	Staten Island University Hospital- North Campus	475 Seaview Avenue	Staten Island	NY	10305
+33610	Critical Care Services/Intensive Care Units	043	1912925199	0	Staten Island University Hospital- South Campus	375 Seguine Avenue	Staten Island	NY	10309
+33610	Outpatient Dialysis	044	1902841513	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1902841513	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Outpatient Dialysis	044	1891721940	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Outpatient Dialysis	044	1891721940	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1871520361	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1871520361	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Outpatient Dialysis	044	1811933278	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1811933278	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Mammography	048	1811054042	0	Richmond University Medical Center	355 Bard Avenue	Staten Island	NY	10310
+33610	Outpatient Dialysis	044	1801822929	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1801822929	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Outpatient Dialysis	044	1770528432	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Outpatient Dialysis	044	1770528432	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Critical Care Services/Intensive Care Units	043	1740389154	0	Richmond University Hospital	355 Bard Ave	Staten Island	NY	10310
+33610	Inpatient Psychiatric Facility Services	052	1740389154	0	Richmond University Medical Center	355 Bard Avenue 	Staten Island	NY	10310
+33610	Inpatient Psychiatric Facility Services	052	1740389154	0	Richmond University Medical Center- Vanderbilt Ave	75 Vanderbilt Avenue 	Staten Island	NY	10304
+33610	Acute Inpatient Hospital Beds	040	1740389154	448	Richmond University Medical Center	355 Bard Ave	Staten Island	NY	10310
+33610	Cardiac Surgery Program	043	1740389154	0	Richmond University Hospital	355 Bard Ave	Staten Island	NY	10310
+33610	Outpatient Dialysis	044	1700227287	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Outpatient Dialysis	044	1700227287	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1699166926	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1699166926	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Mammography	048	1689821944	0	The Breast Imaging Center at Staten Island  University Hospital	256 B Mason Avenue	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1679517270	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1679517270	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Outpatient Dialysis	044	1568498103	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Outpatient Dialysis	044	1568498103	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Surgical Services (Outpatient or ASC)	045	1518918101	0	Bridge Back to Life Center Inc- Victory Boulevard	1688 Victory Boulevard 	Staten Island	NY	10314
+33610	Outpatient Dialysis	044	1467489369	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Outpatient Dialysis	044	1467489369	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1457774002	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1457774002	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Inpatient Psychiatric Facility Services	052	1407877137	0	Staten Island University Hospital - 392 Seguine	392 Seguine Avenue 	Staten Island	NY	10305
+33610	Surgical Services (Outpatient or ASC)	045	1407877137	0	Staten Island University Hospital - 777 Seaview	777 Seaview Ave 	Staten Island	NY	10305
+33610	Surgical Services (Outpatient or ASC)	045	1407877137	0	Staten Island University Hospital - 450 Seaview	450 Seaview Ave 	Staten Island	NY	10305
+33610	Inpatient Psychiatric Facility Services	052	1407877137	0	Staten Island University Hospital - 475 Seaview	475 Seaview Ave 	Staten Island	NY	10305
+33610	Inpatient Psychiatric Facility Services	052	1407877137	0	Staten Island University Hospital- 375 Seguine	375 Seguine Avenue 	Staten Island	NY	10309
+33610	Outpatient Dialysis	044	1376588038	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1376588038	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Outpatient Dialysis	044	1366876948	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1366876948	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Mammography	048	1285642512	0	Sea View Hospital Rehabilitation Center and Home	460 Brielle Avenue	Staten Island	NY	10314
+33610	Acute Inpatient Hospital Beds	040	1225062193	206	Staten Island University Hospital- South Campus	475 Seaview Avenue	Staten Island	NY	10305
+33610	Acute Inpatient Hospital Beds	040	1225062193	508	Staten Island University Hospital- North Campus	475 Seaview Avenue	Staten Island	NY	10305
+33610	Speech Therapy	051	1225062193	0	Staten Island University Hospital- North Campus	475 Seaview Avenue	Staten Island	NY	10305
+33610	Physical Therapy	049	1225062193	0	Staten Island University Hospital- North Campus	475 Seaview Avenue	Staten Island	NY	10305
+33610	Outpatient Infusion/Chemotherapy	057	1225062193	0	Staten Island University Hospital- North Campus	475 Seaview AvenueNA	Staten Island	NY	10305
+33610	Occupational Therapy	050	1225062193	0	Staten Island University Hospital- North Campus	475 Seaview Avenue	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1194760702	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Outpatient Dialysis	044	1194760702	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Speech Therapy	051	1093084659	0	Staten Island University Hospital- South Campus	375 Seguine Avenue	Staten Island	NY	10309
+33610	Occupational Therapy	050	1093084659	0	Staten Island University Hospital- South Campus	375 Seguine Avenue	Staten Island	NY	10309
+33610	Physical Therapy	049	1093084659	0	Staten Island University Hospital- South Campus	375 Seguine Avenue	Staten Island	NY	10309
+33610	Outpatient Infusion/Chemotherapy	057	1093084659	0	Staten Island University Hospital- South Campus	375 Seguine AvenueNA	Staten Island	NY	10309
+33610	Outpatient Dialysis	044	1083650477	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1083650477	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Outpatient Dialysis	044	1083640270	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Outpatient Dialysis	044	1083640270	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1063803435	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	1063803435	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Surgical Services (Outpatient or ASC)	045	1013083476	0	STATEN ISLAND YMCA COUNSELING SVC - Richmond Ave	3911 Richmond Ave 	Staten Island	NY	10312
+33610	Surgical Services (Outpatient or ASC)	045	1013083476	0	STATEN ISLAND YMCA COUNSELING SVC - Vanderbilt Ave	285 Vanderbilt Ave 	Staten Island	NY	10304
+33610	Outpatient Dialysis	044	9999999999	0	"Knickerbocker Dialysis, Inc."	Staten Island Dialysis Center	Staten Island	NY	10305
+33610	Outpatient Dialysis	044	9999999999	0	"Knickerbocker Dialysis, Inc."	Richmond Kidney Center	Staten Island	NY	10301
+33610	Skilled Nursing Facilities	046	9999999999	205	NYC Health + Hospitals / Sea View	460 Brielle Avenue 	Staten Island	NY	10314
+33610	Pancreas Transplant Program	040	9999999999	205	Montefiore Medical Center	111 East 210th Street	Bronx	NY	10467
+33610	Outpatient Dialysis	044	1033131529	0	"DCI, Inc."	800 Castleton Ave. Suite G	Staten Island	NY	10310
+33610	Outpatient Dialysis	044	1518990993	0	"DCI, Inc."	1550 Richmonda Ave	Staten Island	NY	10314
